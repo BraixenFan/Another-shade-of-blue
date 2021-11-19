@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Celeste_Resurrections.mp3-3cdb6aa18bce7baaeb10ae9d3e904a9d.mp3str"
+
+[deps]
+
+source_file="res://Music/Celeste_Resurrections.mp3"
+dest_files=[ "res://.import/Celeste_Resurrections.mp3-3cdb6aa18bce7baaeb10ae9d3e904a9d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

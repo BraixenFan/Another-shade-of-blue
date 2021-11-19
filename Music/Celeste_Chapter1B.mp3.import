@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Celeste_Chapter1B.mp3-966120bd04c6736d79a4f32c33825703.mp3str"
+
+[deps]
+
+source_file="res://Music/Celeste_Chapter1B.mp3"
+dest_files=[ "res://.import/Celeste_Chapter1B.mp3-966120bd04c6736d79a4f32c33825703.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

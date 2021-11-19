@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/revive.wav-1b4229e984ceb76501fd08504254d941.sample"
+
+[deps]
+
+source_file="res://SFx/revive.wav"
+dest_files=[ "res://.import/revive.wav-1b4229e984ceb76501fd08504254d941.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
